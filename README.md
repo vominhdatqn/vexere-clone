@@ -1,5 +1,9 @@
 # vexere-clone
 Notification React native (IOS) - Vo Minh Dat
+# account
+email: vominhdatqn12@gmail.com
+password: 12345678
+
 
 ##heading 
 <img width="315" alt="Screen Shot 2020-05-20 at 16 46 49" src="https://user-images.githubusercontent.com/34256941/82433399-93f39f00-9abb-11ea-95f7-3aef960170dc.png">
